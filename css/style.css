@@ -1,0 +1,32 @@
+.container{
+    margin: 0 auto;
+    max-width: 100%;
+}
+#world-map img {
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#iss-container img {
+    width: 8%;
+    height: 8%;
+    position: absolute;
+    /* left: 50%; 
+    top: 50%; */
+}
+div.images {
+    position: relative;
+    left: 0; 
+    top: 0;
+}
+.breadcrumb{
+    width:  0.5%;
+    height: 0.5%;
+    position: absolute;
+
+}
+
+#iss-image {
+    z-index: 1
+}
